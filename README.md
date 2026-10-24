@@ -70,6 +70,3 @@ then open http://localhost:8000, or simply open `docs/index.html` in a browser.
 
 This simulator was designed and built with Claude (Anthropic) as an AI design and coding assistant, under my direction. Numbers taken from the main project were checked against its reports.
 
-## License
-
-See `LICENSE`.
